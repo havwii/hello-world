@@ -1,0 +1,3 @@
+cd /Applications
+touch newfile.sh
+mv newfile.sh ~/Desktop/movedfile.sh
